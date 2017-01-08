@@ -57,6 +57,19 @@ body
    margin: 0;
    padding: 0;
 }
+#wb_Text2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text2 div
+{
+   text-align: center;
+}
 #Image4
 {
    border-width: 0;
@@ -154,17 +167,4 @@ body
    top: 0;
    width: 100%;
    height: 100%;
-}
-#wb_Text2 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px #000000 solid;
-   padding: 0;
-   margin: 0;
-   text-align: left;
-}
-#wb_Text2 div
-{
-   text-align: left;
 }
